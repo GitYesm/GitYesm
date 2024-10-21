@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.douyin.com/user/self?from_tab_name=main&modal_id=7415401421195037952&showTab=like">
-    <img src="pl.gif" alt="Banner" width="200" height="100">
+    <img src="pl.gif" alt="Banner" width="50%" height="50%">
   </a>
 </p>
 
