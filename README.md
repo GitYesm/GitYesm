@@ -11,5 +11,4 @@
   <a href="https://github.com/GitYesm"><img src="https://github-readme-stats.vercel.app/api?username=GitYesm&hide_border=true&show_icons=true" alt="Xingye's github stats"></a>
 </p>
 
-<p align="center">❤ I'm currently working at the National Supercomputing Center in Jinan</p>
-
+<div>❤ I'm currently working at the National Supercomputing Center in Jinan</div>
