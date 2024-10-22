@@ -12,18 +12,23 @@
 </p>
 
 
-# 技能原型图
+<div style="width: 500px; height: 300px; position: relative;">
+  <svg width="100%" height="100%">
+    <!-- 数据 1 -->
+    <rect x="10" y="50" width="50" height="200" fill="lightblue" />
+    <text x="35" y="270" text-anchor="middle">数据 1 (权重 20%)</text>
 
-<div style="width: 100%; display: flex; justify-content: center;">
-    <svg width="300" height="300">
-        <circle cx="150" cy="150" r="100" stroke="black" stroke-width="2" fill="none"/>
-        <path d="M150,150 L150,50 A100,100 0 0,1 225,150 Z" fill="lightblue" />
-        <path d="M150,150 L225,150 A100,100 0 0,1 200,250 Z" fill="lightgreen" />
-        <path d="M150,150 L200,250 A100,100 0 0,1 100,250 Z" fill="lightcoral" />
-        <path d="M150,150 L100,250 A100,100 0 0,1 75,150 Z" fill="lightyellow" />
-        <path d="M150,150 L75,150 A100,100 0 0,1 50,50 Z" fill="lightpink" />
-        <path d="M150,150 L50,50 A100,100 0 0,1 150,50 Z" fill="lightgray" />
-        <path d="M150,150 L150,50 A100,100 0 0,1 150,150 Z" fill="lightblue" />
-    </svg>
+    <!-- 数据 2 -->
+    <rect x="80" y="100" width="50" height="150" fill="lightgreen" />
+    <text x="105" y="270" text-anchor="middle">数据 2 (权重 30%)</text>
+
+    <!-- 数据 3 -->
+    <rect x="150" y="80" width="50" height="170" fill="lightcoral" />
+    <text x="175" y="270" text-anchor="middle">数据 3 (权重 25%)</text>
+
+    <!-- 数据 4 -->
+    <rect x="220" y="30" width="50" height="220" fill="lightgoldenrodyellow" />
+    <text x="245" y="270" text-anchor="middle">数据 4 (权重 25%)</text>
+  </svg>
 </div>
 
