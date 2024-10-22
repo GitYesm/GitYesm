@@ -11,7 +11,6 @@
   <a href="https://github.com/GitYesm"><img src="https://github-readme-stats.vercel.app/api?username=GitYesm&hide_border=true&show_icons=true" alt="Xingye's github stats"></a>
 </p>
 
-<svg width="200" height="200">
-  <circle cx="100" cy="100" r="80" fill="lightblue" />
-  <text x="100" y="105" text-anchor="middle" font-size="20">圆形图</text>
-</svg>
+<div>
+  <img src="skill.png" alt="Banner" width="50%" height="50%">
+</div>
